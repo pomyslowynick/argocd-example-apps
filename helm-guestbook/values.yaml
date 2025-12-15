@@ -9,7 +9,7 @@ image:
   tag: v5
   pullPolicy: IfNotPresent
 
-containerPort: 80
+containerPort: 8021321213
 
 service:
   type: ClusterIP
